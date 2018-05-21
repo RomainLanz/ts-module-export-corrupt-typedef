@@ -5,4 +5,4 @@ class Config implements Greet {
   }
 }
 
-module.exports = Config
+export = Config
